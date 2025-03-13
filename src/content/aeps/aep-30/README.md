@@ -7,7 +7,11 @@ type: Standard
 category: Core
 created: 2024-08-29
 updated: 2024-02-18
+<<<<<<< Updated upstream
 estimated-completion: 2025-03-15
+=======
+completed: 2025-03-12
+>>>>>>> Stashed changes
 roadmap: major
 requires: 61
 discussions-to: https://github.com/orgs/akash-network/discussions/673
@@ -279,4 +283,8 @@ All funds will be liquidated and managed in a manner that ensures minimal impact
 
 ## Copyright
 
+<<<<<<< Updated upstream
 All content herein is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+=======
+All content herein is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+>>>>>>> Stashed changes

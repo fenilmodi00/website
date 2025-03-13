@@ -7,7 +7,11 @@ type: Standard
 category: Core
 created: 2025-01-30
 updated: 2025-02-18
+<<<<<<< Updated upstream
 estimated-completion: 2025-02-28
+=======
+completed: 2025-03-12
+>>>>>>> Stashed changes
 roadmap: major
 ---
 
@@ -86,4 +90,8 @@ Store will update with following prefixes:
 
 ## Copyright
 
+<<<<<<< Updated upstream
 All content herein is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+=======
+All content herein is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+>>>>>>> Stashed changes
