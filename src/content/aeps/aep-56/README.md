@@ -6,8 +6,13 @@ status: Draft
 type: Standard
 category: Interface
 created: 2025-01-10
+<<<<<<< Updated upstream
 updated: 2025-01-10
 estimated-completion: 2025-03-15
+=======
+updated: 2025-03-19
+estimated-completion: 2025-04-30
+>>>>>>> Stashed changes
 roadmap: major
 ---
 
