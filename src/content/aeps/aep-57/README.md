@@ -156,7 +156,11 @@ Implement a worker CLI handler that automatically adds funds (top-ups) to Akash 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 https://github.com/akash-network/console/issues/395 
+=======
+https://github.com/akash-network/console/issues/395
+>>>>>>> Stashed changes
 =======
 https://github.com/akash-network/console/issues/395
 >>>>>>> Stashed changes
