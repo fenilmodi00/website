@@ -211,6 +211,7 @@ created: 2024-08-29
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 updated: 2024-02-18
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -1701,6 +1702,10 @@ estimated-completion: 2025-08-31
 updated: 2024-04-22
 estimated-completion: 2025-08-31
 >>>>>>> Stashed changes
+=======
+updated: 2024-04-22
+estimated-completion: 2025-08-31
+>>>>>>> Stashed changes
 roadmap: major
 requires: 61
 discussions-to: https://github.com/orgs/akash-network/discussions/673
@@ -2344,7 +2349,11 @@ All funds will be liquidated and managed in a manner that ensures minimal impact
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 All content herein is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+=======
+All content herein is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+>>>>>>> Stashed changes
 =======
 All content herein is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 >>>>>>> Stashed changes
