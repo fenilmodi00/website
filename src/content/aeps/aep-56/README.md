@@ -382,6 +382,7 @@ created: 2025-01-10
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 updated: 2025-01-10
 estimated-completion: 2025-03-15
 =======
@@ -1888,6 +1889,10 @@ estimated-completion: 2025-06-30
 updated: 2025-05-16
 estimated-completion: 2025-06-30
 >>>>>>> Stashed changes
+=======
+updated: 2025-05-16
+estimated-completion: 2025-06-30
+>>>>>>> Stashed changes
 roadmap: major
 ---
 
@@ -2049,6 +2054,7 @@ Right now interacting with the blockchain and the provider is arduous for someon
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Specificaly the scope of this AEP will include
 - Designing and implementing new interfaces that abstract a lot of the blockchain and Akash specific things as far as possible
 - Implementing better error handling and reporting (HTTP response codes)
@@ -2056,6 +2062,8 @@ Specificaly the scope of this AEP will include
 - Evaulating options for documentation (JSDocs, type-doc, Swagger, Docusaurus, Slateor others) and choosing one.
 - Deciding on how to publicly display the API reference (where to put it, link it from etc)
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -2550,6 +2558,10 @@ export function getSdl(yamlJson: string | v2Sdl, networkType: NetworkType, netwo
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+```
+>>>>>>> Stashed changes
+=======
 ```
 >>>>>>> Stashed changes
 =======
